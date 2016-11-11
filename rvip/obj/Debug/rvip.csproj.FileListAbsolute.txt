@@ -1,0 +1,6 @@
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\bin\Debug\rvip.exe.config
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\bin\Debug\rvip.exe
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\bin\Debug\rvip.pdb
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\obj\Debug\rvip.exe
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\obj\Debug\rvip.pdb
+c:\users\natasha\documents\visual studio 2015\Projects\rvip\rvip\obj\Debug\rvip.csprojResolveAssemblyReference.cache
