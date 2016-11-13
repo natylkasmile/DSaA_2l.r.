@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Net;
+using System.Net.Sockets;
 
 namespace rvip
 {
@@ -14,7 +16,6 @@ namespace rvip
         const int MaxCountTrans = 10;
         Server serv = new Server();
         static int cb = 0;
-
         static void Main(string[] args)
         {
             int count; float sp;
@@ -49,7 +50,7 @@ namespace rvip
                 Console.WriteLine("Камера" + cam.name.ToString() + " отправляет данные: Средняя скорость " + sp.ToString() + " , количество машин " + count.ToString());
                 cam.Send(serv, count, sp);
             }
-        }
-      
+         }
+
     }
 }
